@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mi Canal RSS</title> 
+    <link>https://www.xataka.com/</link> 
+    <description>Mi propio canal de RSS sobre noticias de la actualidad, sobre el tema de la informática y todo lo relacinado</description> 
+    <language>es-es</language> 
+    <copyright>© 2024 Mi Sitio Web</copyright> 
+    <webMaster>a23pomega@iesgrancapitan.org (Gabriel Polo)</webMaster> 
+    <pubDate>Thu, 30 May 2024 09:00:00 GMT</pubDate> 
+    <category>Noticias</category> 
+    <generator>Visual Studio Code</generator> 
+    <ttl>60</ttl> 
+    <atom:link href="https://github.com/Gabriel290805/feedrss.github.io/rss.xml" rel="self" type="application/rss+xml"/> 
+
+    <item>
+      <title>Las tecnológicas chinas han encontrado la forma de protegerse de EEUU: saliendo de China</title>
+      <link>https://www.xataka.com/empresas-y-economia/tecnologicas-chinas-han-encontrado-forma-protegerse-eeuu-saliendo-china</link>
+      <description>Actualmente el 37% de los 35 proveedores de componentes de Apple que residen en Vietnam son en realidad compañías chinas.</description>
+      <author>a23pomega@iesgrancapitan.org (Gabriel Polo)</author>
+      <category>Tecnoligía y Informática</category>
+      <pubDate>Wed, 29 May 2024 12:00:00 GMT</pubDate>
+      <guid>https://www.xataka.com/empresas-y-economia/tecnologicas-chinas-han-encontrado-forma-protegerse-eeuu-saliendo-china</guid>
+    </item>
+
+    <item>
+      <title>Nos hemos topado con el genoma más grande del planeta. Tiene 106 metros de ADN... y es un helecho diminuto</title>
+      <link>https://www.xataka.com/ecologia-y-naturaleza/nos-hemos-topado-genoma-grande-planeta-tiene-106-metros-adn-helecho-diminuto</link>
+      <description>Para entender cómo un simple helecho se ha hecho con ese récord mundial en el campo de los “libros de instrucciones” de los organismos vivos que son los genomas.</description>
+      <author>a23pomega@iesgrancapitan.org (Gabriel Polo)</author>
+      <category>Biología</category>
+      <pubDate>Wed, 29 May 2024 13:00:00 GMT</pubDate>
+      <guid>https://www.xataka.com/ecologia-y-naturaleza/nos-hemos-topado-genoma-grande-planeta-tiene-106-metros-adn-helecho-diminuto</guid>
+    </item>
+
+    <item>
+      <title>No quiero (ni puedo) vivir sin Servicios de Google. Y no he tenido el menor problema usando un Huawei en 2024</title>
+      <link>https://www.xataka.com/moviles/no-quiero-puedo-vivir-servicios-google-no-he-tenido-menor-problema-usando-huawei-2024</link>
+      <description>Nos guste más o menos, la realidad es que la inmensa mayoría de los usuarios españoles utilizamos servicios de Google. Maps, Gmail, Chrome, algún enlace que nos pasan a través de Google Drive.</description>
+      <author>a23pomega@iesgrancapitan.org (Gabriel Polo)</author>
+      <category>Redes y Hardware</category>
+      <pubDate>Wed, 29 May 2024 14:00:00 GMT</pubDate>
+      <guid>https://www.xataka.com/moviles/no-quiero-puedo-vivir-servicios-google-no-he-tenido-menor-problema-usando-huawei-2024</guid>
+    </item>
+
+    <item>
+      <title>El nuevo teclado retro de 8BitDo rinde homenaje a un modelo histórico: el IBM Model M</title>
+      <link>https://www.xataka.com/perifericos/nuevo-teclado-retro-8bitdo-rinde-homenaje-a-modelo-historico-ibm-model-m</link>
+      <description>Si hay un teclado inmortal, ese es el IBM Model M, que junto a su Model F convirtió estos periféricos en singulares joyas de la informática. Ahora hay una firma que se ha inspirado en ellos para crear un homensaje singular.</description>
+      <author>a23pomega@iesgrancapitan.org (Gabriel Polo)</author>
+      <category>Periféricos</category>
+      <pubDate>Wed, 29 May 2024 15:00:00 GMT</pubDate>
+      <guid>https://www.xataka.com/perifericos/nuevo-teclado-retro-8bitdo-rinde-homenaje-a-modelo-historico-ibm-model-m</guid>
+    </item>
+
+     <item>
+      <title>Nueva York tiene el puente más transitado del mundo por vehículos motorizados: es una imponente maravilla de la ingeniería</title>
+      <link>https://www.xataka.com/ingenieria-y-megaconstrucciones/nueva-york-tiene-puente-transitado-mundo-vehiculos-motorizados-imponente-maravilla-ingenieria</link>
+      <description>Hay obras arquitectónicas que fueron una maravilla de su tiempo, pero que en la actualidad nos siguen sorprendiendo. Nueva York, también conocida como “la ciudad que nunca duerme”, es el hogar de muchos de estos que no suelen pasar desapercibidos. De hecho, muchos de ellos se han convertido en auténticas atracciones turísticas.</description>
+      <author>a23pomega@iesgrancapitan.org (Gabriel Polo)</author>
+      <category>Ingeniería</category>
+      <pubDate>Wed, 29 May 2024 16:00:00 GMT</pubDate>
+      <guid>https://www.xataka.com/ingenieria-y-megaconstrucciones/nueva-york-tiene-puente-transitado-mundo-vehiculos-motorizados-imponente-maravilla-ingenieria</guid>
+    </item>
+
+  </channel>
+</rss>
