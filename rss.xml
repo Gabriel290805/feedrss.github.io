@@ -5,11 +5,10 @@
     <link>https://www.xataka.com/</link> 
     <description>Mi propio canal de RSS sobre noticias de la actualidad, sobre el tema de la informática y todo lo relacinado</description> 
     <language>es-es</language> 
-    <copyright>© 2024 Mi Sitio Web</copyright> 
+    <copyright>© 2024 Mi RSS</copyright> 
     <webMaster>a23pomega@iesgrancapitan.org (Gabriel Polo)</webMaster> 
     <pubDate>Thu, 30 May 2024 09:00:00 GMT</pubDate> 
     <category>Noticias</category> 
-    <generator>Visual Studio Code</generator> 
     <ttl>60</ttl> 
     <atom:link href="https://github.com/Gabriel290805/feedrss.github.io/rss.xml" rel="self" type="application/rss+xml"/> 
 
